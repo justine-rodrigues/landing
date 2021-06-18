@@ -1,0 +1,12 @@
+.btn-pink{
+	background-color: eb8f8f;
+	color:f1f3de;
+	padding: 15px 20px;
+	border-radius: 4px; 
+	font-family: 'Roboto', sans-serif;
+ }
+.btn-pink:hover {
+	background-color:eb8f8f;
+	color:cd0a0a;
+	font-family: 'Roboto', sans-serif;
+}
